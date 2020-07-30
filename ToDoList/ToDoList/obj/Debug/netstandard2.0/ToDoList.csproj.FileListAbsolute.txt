@@ -1,0 +1,42 @@
+E:\Kal_Academy\Course\ToDoList\ToDoList\bin\Debug\netstandard2.0\ToDoList.deps.json
+E:\Kal_Academy\Course\ToDoList\ToDoList\bin\Debug\netstandard2.0\ToDoList.dll
+E:\Kal_Academy\Course\ToDoList\ToDoList\bin\Debug\netstandard2.0\ref\ToDoList.dll
+E:\Kal_Academy\Course\ToDoList\ToDoList\bin\Debug\netstandard2.0\ToDoList.pdb
+E:\Kal_Academy\Course\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.csprojAssemblyReference.cache
+E:\Kal_Academy\Course\ToDoList\ToDoList\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Kal_Academy\Course\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.AssemblyInfoInputs.cache
+E:\Kal_Academy\Course\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.AssemblyInfo.cs
+E:\Kal_Academy\Course\ToDoList\ToDoList\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Kal_Academy\Course\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.dll
+E:\Kal_Academy\Course\ToDoList\ToDoList\obj\Debug\netstandard2.0\ref\ToDoList.dll
+E:\Kal_Academy\Course\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.pdb
+E:\Kal_Academy\Course\ToDoList\ToDoList\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+E:\Kal_Academy\Course\ToDoList\ToDoList\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+E:\Kal_Academy\Course\Mobile App\ToDoList\ToDoList\bin\Debug\netstandard2.0\ToDoList.deps.json
+E:\Kal_Academy\Course\Mobile App\ToDoList\ToDoList\bin\Debug\netstandard2.0\ToDoList.dll
+E:\Kal_Academy\Course\Mobile App\ToDoList\ToDoList\bin\Debug\netstandard2.0\ref\ToDoList.dll
+E:\Kal_Academy\Course\Mobile App\ToDoList\ToDoList\bin\Debug\netstandard2.0\ToDoList.pdb
+E:\Kal_Academy\Course\Mobile App\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.csprojAssemblyReference.cache
+E:\Kal_Academy\Course\Mobile App\ToDoList\ToDoList\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Kal_Academy\Course\Mobile App\ToDoList\ToDoList\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+E:\Kal_Academy\Course\Mobile App\ToDoList\ToDoList\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+E:\Kal_Academy\Course\Mobile App\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.AssemblyInfoInputs.cache
+E:\Kal_Academy\Course\Mobile App\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.AssemblyInfo.cs
+E:\Kal_Academy\Course\Mobile App\ToDoList\ToDoList\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Kal_Academy\Course\Mobile App\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.dll
+E:\Kal_Academy\Course\Mobile App\ToDoList\ToDoList\obj\Debug\netstandard2.0\ref\ToDoList.dll
+E:\Kal_Academy\Course\Mobile App\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.pdb
+E:\Coding\Kal_Academy\Course\Mobile App_ToDo\ToDoList\ToDoList\bin\Debug\netstandard2.0\ToDoList.deps.json
+E:\Coding\Kal_Academy\Course\Mobile App_ToDo\ToDoList\ToDoList\bin\Debug\netstandard2.0\ToDoList.dll
+E:\Coding\Kal_Academy\Course\Mobile App_ToDo\ToDoList\ToDoList\bin\Debug\netstandard2.0\ref\ToDoList.dll
+E:\Coding\Kal_Academy\Course\Mobile App_ToDo\ToDoList\ToDoList\bin\Debug\netstandard2.0\ToDoList.pdb
+E:\Coding\Kal_Academy\Course\Mobile App_ToDo\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.csprojAssemblyReference.cache
+E:\Coding\Kal_Academy\Course\Mobile App_ToDo\ToDoList\ToDoList\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Coding\Kal_Academy\Course\Mobile App_ToDo\ToDoList\ToDoList\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+E:\Coding\Kal_Academy\Course\Mobile App_ToDo\ToDoList\ToDoList\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+E:\Coding\Kal_Academy\Course\Mobile App_ToDo\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.AssemblyInfoInputs.cache
+E:\Coding\Kal_Academy\Course\Mobile App_ToDo\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.AssemblyInfo.cs
+E:\Coding\Kal_Academy\Course\Mobile App_ToDo\ToDoList\ToDoList\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Coding\Kal_Academy\Course\Mobile App_ToDo\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.dll
+E:\Coding\Kal_Academy\Course\Mobile App_ToDo\ToDoList\ToDoList\obj\Debug\netstandard2.0\ref\ToDoList.dll
+E:\Coding\Kal_Academy\Course\Mobile App_ToDo\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.pdb
